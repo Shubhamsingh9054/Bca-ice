@@ -1,0 +1,1810 @@
+{
+  "status": 200,
+  "product_category_data": {
+    "category_id": 66,
+    "category_name": "Ice Cream",
+    "category_description": "Quality ingredients, exciting flavours and rich, creamy goodness make Amul Ice cream cups, cones, sticks, family packs, novelties and sundaes a favourite across generations. With a wide range that spans classic flavours, luscious innovations and trending tastes, Amul Ice Cream has something irresistible for everyone.",
+    "category_image_web": "https://assets.amul.com/public/product-category-images/sQcc28u9ztu211UOu0B00bTLk5CrTrlNABwjmHRD.png",
+    "category_image_mobile": "https://assets.amul.com/public/product-category-images/OquIacGrpyx5mX8x3AkuMOGqTNrwTG8h1UiCvXIO.png",
+    "thumbnail_image": "https://assets.amul.com/public/product-category-images/iJATJeGTDtxPi5tyLa5r3qw72XCc216TyuBVAzWA.jpg",
+    "text_color": "#FFFFFF",
+    "background_color": "#2E3192",
+    "available_at": [],
+    "sub_category": [
+      {
+        "sub_category_id": 292,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Tricone",
+        "product": [
+          {
+            "product_id": 1386,
+            "product_slug": "butterscotch-2",
+            "product_title": "Butterscotch",
+            "product_display_size": "100ml, 120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Butter-Scotch-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1387,
+            "product_slug": "choco-crunch",
+            "product_title": "Choco Crunch",
+            "product_display_size": "100ml, 120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Choco-Crunch-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1388,
+            "product_slug": "choco-crunch-delight",
+            "product_title": "Choco Crunch Delight",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Choco-Crunch-Delight-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1389,
+            "product_slug": "jumbo-choco-brownie",
+            "product_title": "Jumbo Choco Brownie",
+            "product_display_size": "150ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Choco-Brownie-Jumbo-Tricone-150mL-fop.png"
+          },
+          {
+            "product_id": 1390,
+            "product_slug": "double-chocolate",
+            "product_title": "Double Chocolate",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Double-Chocolate-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1391,
+            "product_slug": "choco-vanilla",
+            "product_title": "Choco Vanilla",
+            "product_display_size": "100ml, 120ml, 40ml, 70ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Choco-Vanilla-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1392,
+            "product_slug": "dark-chocolate-3",
+            "product_title": "Dark Chocolate",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Dark-Chocolate-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1393,
+            "product_slug": "belgian-chocolate-3",
+            "product_title": "Belgian Chocolate",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Belgian_Chocolate_Cone_120mL-fop.png"
+          },
+          {
+            "product_id": 1394,
+            "product_slug": "bitter-chocolate-2",
+            "product_title": "Bitter Chocolate ",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Amul-Bitter-Chocolate-Tricone-100mL-fop.png"
+          },
+          {
+            "product_id": 1395,
+            "product_slug": "cookie-crunch-delight",
+            "product_title": "Cookie Crunch Delight",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Cookie-Crunch-Delight-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1396,
+            "product_slug": "black-currant",
+            "product_title": "Black Currant",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Black-Currant-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1397,
+            "product_slug": "two-in-one-vanilla-strawberry",
+            "product_title": "Two in one (Vanilla & Strawberry)",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Two-in-One-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1398,
+            "product_slug": "kesar-pista",
+            "product_title": "Kesar Pista",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Kesar-Pista-Tricone-120mL-fop.png"
+          },
+          {
+            "product_id": 1788,
+            "product_slug": "red-velvet",
+            "product_title": "Red Velvet",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Red_Velvet_Tricone_120mL.png"
+          },
+          {
+            "product_id": 1789,
+            "product_slug": "chocolate-gold",
+            "product_title": "Chocolate Gold ",
+            "product_display_size": "120ml ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/GC_Amul_Chocolate_Gold_Tri_Cone_MERGED.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 293,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Tubs",
+        "product": [
+          {
+            "product_id": 1399,
+            "product_slug": "vanilla-royale",
+            "product_title": "Vanilla Royale",
+            "product_display_size": "500ml, 4l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Vanilla Royale 500mL.png"
+          },
+          {
+            "product_id": 1400,
+            "product_slug": "vanilla-magic",
+            "product_title": "Vanilla Magic",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Vanilla Magic 1L.png"
+          },
+          {
+            "product_id": 1401,
+            "product_slug": "choco-chip",
+            "product_title": "Choco Chip",
+            "product_display_size": "500ml, 1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Chocochips 1L.png"
+          },
+          {
+            "product_id": 1402,
+            "product_slug": "choco-crackle",
+            "product_title": "Choco Crackle",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Choco Crackle 1L.png"
+          },
+          {
+            "product_id": 1403,
+            "product_slug": "chocolate-brownie",
+            "product_title": "Chocolate Brownie",
+            "product_display_size": "500ml, 1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Chocolate Brownie 1L.png"
+          },
+          {
+            "product_id": 1404,
+            "product_slug": "choco-maltino",
+            "product_title": "Choco Maltino",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Choco Maltino 1L.png"
+          },
+          {
+            "product_id": 1405,
+            "product_slug": "butterscotch-bliss",
+            "product_title": "Butterscotch Bliss",
+            "product_display_size": "500ml. 1l, 4l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Butterscotch Bliss 1L.png"
+          },
+          {
+            "product_id": 1406,
+            "product_slug": "king-alphonso",
+            "product_title": "King Alphonso ",
+            "product_display_size": "500ml, 1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream King Alphonso 1L.png"
+          },
+          {
+            "product_id": 1409,
+            "product_slug": "asli-aam-sorbet",
+            "product_title": "Asli Aam Sorbet ",
+            "product_display_size": "1l ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Asli Aam 1L.png"
+          },
+          {
+            "product_id": 1410,
+            "product_slug": "asli-aamras",
+            "product_title": "Asli Aamras ",
+            "product_display_size": "1l ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Asli Aamras 1L.png"
+          },
+          {
+            "product_id": 1411,
+            "product_slug": "shahi-kulfi",
+            "product_title": "Shahi Kulfi",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Shahi Kulfi 1L.png"
+          },
+          {
+            "product_id": 1412,
+            "product_slug": "falooda",
+            "product_title": "Falooda",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Falooda 1L.png"
+          },
+          {
+            "product_id": 1413,
+            "product_slug": "rajbhog-2",
+            "product_title": "Rajbhog",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Rajbhog 1L.png"
+          },
+          {
+            "product_id": 1414,
+            "product_slug": "roasted-almond",
+            "product_title": "Roasted Almond",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Roasted Almond 1L.png"
+          },
+          {
+            "product_id": 1415,
+            "product_slug": "moroccan-dry-fruit",
+            "product_title": "Moroccan Dry Fruit ",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Moroccan Dry Fruit 1L.png"
+          },
+          {
+            "product_id": 1416,
+            "product_slug": "fruit-n-nuts-fantasy",
+            "product_title": "Fruit n Nuts Fantasy",
+            "product_display_size": "500ml, 1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Fruit n nut Fantasy 1L.png"
+          },
+          {
+            "product_id": 1417,
+            "product_slug": "choco-almond-n-kesar-badam-double-sundae",
+            "product_title": "Choco Almond N Kesar Badam Double Sundae",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Choco Almond n Kesar Badam 1L.png"
+          },
+          {
+            "product_id": 1418,
+            "product_slug": "chocolate-magic-sundae",
+            "product_title": "Chocolate Magic Sundae",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Chocolate Magic Sundae 1L.png"
+          },
+          {
+            "product_id": 1419,
+            "product_slug": "strawberry-magic-sundae",
+            "product_title": "Strawberry Magic Sundae",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Strawberry Magic Sundae 1L.png"
+          },
+          {
+            "product_id": 1420,
+            "product_slug": "khatta-meetha-mango-magic-sundae",
+            "product_title": "Khatta Meetha Mango Magic Sundae",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Khatta Meetha Mango Sundae 1L.png"
+          },
+          {
+            "product_id": 1421,
+            "product_slug": "strawberry-cheese-sundae",
+            "product_title": "Strawberry & Cheese  Sundae",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Strawberry & Cheese Sundae 1L.png"
+          },
+          {
+            "product_id": 1422,
+            "product_slug": "cherry-cheese-sundae",
+            "product_title": "Cherry & Cheese  Sundae",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Cheese & Cherry 1L.png"
+          },
+          {
+            "product_id": 1423,
+            "product_slug": "pan-nawabi",
+            "product_title": "Pan Nawabi ",
+            "product_display_size": "1l",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Pan Nawabi 1L.png"
+          },
+          {
+            "product_id": 1424,
+            "product_slug": "caramel-cookies",
+            "product_title": "Caramel Cookies ",
+            "product_display_size": "1l ",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 ToP_Amul Ice Cream Caramel Cookies 1L.png"
+          },
+          {
+            "product_id": 1425,
+            "product_slug": "ice-malai",
+            "product_title": "Ice Malai",
+            "product_display_size": "500ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Malai 500ml.png"
+          },
+          {
+            "product_id": 1426,
+            "product_slug": "ice-malai-mango",
+            "product_title": "Ice Malai - Mango ",
+            "product_display_size": "500ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Malai Mango 500ml.png"
+          },
+          {
+            "product_id": 1427,
+            "product_slug": "sugar-free-anjir",
+            "product_title": "Sugar Free Anjir ",
+            "product_display_size": "500ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Sugar Free Shahi Anjir 500ml.png"
+          },
+          {
+            "product_id": 1790,
+            "product_slug": "tru-berry-dazzle",
+            "product_title": "Tru Berry Dazzle",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Berry_Dazzle_1L.png"
+          },
+          {
+            "product_id": 1791,
+            "product_slug": "tru-chikoo-charm",
+            "product_title": "Tru Chikoo Charm",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Chikoo_Charm_1L.png"
+          },
+          {
+            "product_id": 1792,
+            "product_slug": "tru-joyful-jack-fruit",
+            "product_title": "Tru Joyful Jack Fruit",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Joyful_Jack_Fruit_1L.png"
+          },
+          {
+            "product_id": 1793,
+            "product_slug": "tru-lovely-litchi",
+            "product_title": "Tru Lovely Litchi",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Lovely_Litchi_1L.png"
+          },
+          {
+            "product_id": 1794,
+            "product_slug": "tru-mango-mania",
+            "product_title": "Tru Mango Mania",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Mango_Mania_1L.png"
+          },
+          {
+            "product_id": 1795,
+            "product_slug": "tru-santra-mantra",
+            "product_title": "Tru Santra Mantra ",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Santra_Mantra_1L.png"
+          },
+          {
+            "product_id": 1796,
+            "product_slug": "tru-sitaphal-bliss",
+            "product_title": "Tru Sitaphal Bliss",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Sitaphal_Bliss_1L.png"
+          },
+          {
+            "product_id": 1797,
+            "product_slug": "tru-spicy-guava",
+            "product_title": "Tru Spicy Guava",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Spicy_Guava_1L.png"
+          },
+          {
+            "product_id": 1798,
+            "product_slug": "tru-srawberry-crush",
+            "product_title": "Tru Srawberry Crush",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Strawberry_Crush_1L.png"
+          },
+          {
+            "product_id": 1799,
+            "product_slug": "tru-tender-coconut",
+            "product_title": "Tru Tender Coconut",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Tender_Coconut_1L.png"
+          },
+          {
+            "product_id": 1800,
+            "product_slug": "tru-tropical-pineapple",
+            "product_title": "Tru Tropical Pineapple",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Tropical_Pineapple_1L.png"
+          },
+          {
+            "product_id": 1801,
+            "product_slug": "amul-cookies-n-cream-gold",
+            "product_title": "Amul Cookies n Cream Gold",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/GC_Amul_Cookies_n_Cream_Gold_Tup.png"
+          },
+          {
+            "product_id": 1802,
+            "product_slug": "kaju-draksha-gold",
+            "product_title": "Kaju Draksha Gold",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Amul_Kaju_Draksha_Gold_Tub.png"
+          },
+          {
+            "product_id": 1803,
+            "product_slug": "king-alphonso-gold",
+            "product_title": "King Alphonso Gold",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_King_Alphonso_Gold_Tup.png"
+          },
+          {
+            "product_id": 1804,
+            "product_slug": "tutti-fruiti-gold",
+            "product_title": "Tutti Fruiti Gold",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Amul_Tutti_Frutti_Gold_Tub.png"
+          },
+          {
+            "product_id": 1805,
+            "product_slug": "vanilla-gold",
+            "product_title": "Vanilla Gold ",
+            "product_display_size": "1L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/GC_Amul_Vanila_Gold_1Ltr_Tup.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 294,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Cups",
+        "product": [
+          {
+            "product_id": 1428,
+            "product_slug": "vanilla-royale-2",
+            "product_title": "Vanilla Royale",
+            "product_display_size": "125ml, 100ml, 55ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Vanilla Royale 125ml.png"
+          },
+          {
+            "product_id": 1429,
+            "product_slug": "chocolate-4",
+            "product_title": "Chocolate",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/03 ToP_Amul Chocolate Cup 100mL (1).png"
+          },
+          {
+            "product_id": 1430,
+            "product_slug": "butterscotch-bliss-2",
+            "product_title": "Butterscotch Bliss",
+            "product_display_size": "125ml, 100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Butterscotch Bliss 125ml.png"
+          },
+          {
+            "product_id": 1431,
+            "product_slug": "butterscotch-3",
+            "product_title": "Butterscotch",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/03 ToP_Amul Butterscotch Cup 100mL (1).png"
+          },
+          {
+            "product_id": 1432,
+            "product_slug": "chocolate-brownie-2",
+            "product_title": "Chocolate Brownie",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Chocolate Brownie 125ml.png"
+          },
+          {
+            "product_id": 1433,
+            "product_slug": "creme-rich-almond-fudge",
+            "product_title": "Creme Rich Almond Fudge",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Creme Rich Almond Fudge 125ml.png"
+          },
+          {
+            "product_id": 1434,
+            "product_slug": "creme-rich-caramel",
+            "product_title": "Creme Rich Caramel",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Creme Rich Caramel 125ml.png"
+          },
+          {
+            "product_id": 1451,
+            "product_slug": "shahi-anjir",
+            "product_title": "Shahi Anjir",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Shahi Anjir 125ml.png"
+          },
+          {
+            "product_id": 1454,
+            "product_slug": "american-nuts-2",
+            "product_title": "American Nuts",
+            "product_display_size": "125 ml, 100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice American Nuts 125ml.png"
+          },
+          {
+            "product_id": 1455,
+            "product_slug": "berry-dazzle-2",
+            "product_title": "Berry Dazzle",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Berry dazzle 125ml.png"
+          },
+          {
+            "product_id": 1456,
+            "product_slug": "strawberry-and-cheese-sundae",
+            "product_title": "Strawberry and Cheese Sundae",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Cheese and Strawberry.png"
+          },
+          {
+            "product_id": 1457,
+            "product_slug": "choco-maltino-2",
+            "product_title": "Choco Maltino",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Choco Maltino 125ml.png"
+          },
+          {
+            "product_id": 1458,
+            "product_slug": "chocolate-sundae",
+            "product_title": "Chocolate Sundae",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Chocolate 125ml.png"
+          },
+          {
+            "product_id": 1459,
+            "product_slug": "cookies-n-cream",
+            "product_title": "Cookies N Cream",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Cookies N Cream 125ml.png"
+          },
+          {
+            "product_id": 1460,
+            "product_slug": "golden-pearl",
+            "product_title": "Golden Pearl",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Golden Pearl 125ml.png"
+          },
+          {
+            "product_id": 1461,
+            "product_slug": "gudbud",
+            "product_title": "Gudbud",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Gudbud 125ml.png"
+          },
+          {
+            "product_id": 1462,
+            "product_slug": "khatta-meetha-mango-magic-sundae-2",
+            "product_title": "Khatta Meetha Mango Magic Sundae",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Khatta Meetha 125ml.png"
+          },
+          {
+            "product_id": 1463,
+            "product_slug": "afghan-dry-fruit",
+            "product_title": "Afghan Dry Fruit",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/03 ToP_Amul Afghan Dry Fuit Cup 100mL (1).png"
+          },
+          {
+            "product_id": 1464,
+            "product_slug": "kaju-draksh",
+            "product_title": "Kaju Draksh ",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/03 ToP_Amul Kaju Draksh Cup 100mL (1).png"
+          },
+          {
+            "product_id": 1465,
+            "product_slug": "alphonso-mango",
+            "product_title": "Alphonso Mango",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/03 ToP_Amul Alphonso Mango Cup 100mL (2).png"
+          },
+          {
+            "product_id": 1466,
+            "product_slug": "nolen-gur",
+            "product_title": "Nolen Gur",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/03 ToP_Amul Nolen Gur Cup 100mL (1).png"
+          },
+          {
+            "product_id": 1467,
+            "product_slug": "two-in-one",
+            "product_title": "Two-in-one",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/03 ToP_Amul Two in One Cup 100mL (1).png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 295,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Jumbo Cups",
+        "product": [
+          {
+            "product_id": 1435,
+            "product_slug": "fruit-n-nut-fantasy",
+            "product_title": "Fruit N Nut Fantasy",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Fruit N Nut Fantasy 125mL.png"
+          },
+          {
+            "product_id": 1437,
+            "product_slug": "rajbhog-3",
+            "product_title": "Rajbhog",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Rajbhog 125ml.png"
+          },
+          {
+            "product_id": 1438,
+            "product_slug": "falooda-2",
+            "product_title": "Falooda",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Falooda 125ml.png"
+          },
+          {
+            "product_id": 1439,
+            "product_slug": "shalimar-2",
+            "product_title": "Shalimar",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Shalimar 125ml.png"
+          },
+          {
+            "product_id": 1440,
+            "product_slug": "shahi-kulfi-2",
+            "product_title": "Shahi Kulfi",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Shahi Kulfi 125ml.png"
+          },
+          {
+            "product_id": 1441,
+            "product_slug": "king-alphonso-2",
+            "product_title": "King Alphonso",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream King Alphonso 125ml.png"
+          },
+          {
+            "product_id": 1442,
+            "product_slug": "coffee",
+            "product_title": "Coffee",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1 Fop_Amul Coffee_125mL.png"
+          },
+          {
+            "product_id": 1443,
+            "product_slug": "pan-nawabi-2",
+            "product_title": "Pan Nawabi",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Pan Nawabi 125ml.png"
+          },
+          {
+            "product_id": 1806,
+            "product_slug": "tru-berry-dazzle-2",
+            "product_title": "Tru Berry Dazzle",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Berry_Dazzle_125mL.png"
+          },
+          {
+            "product_id": 1807,
+            "product_slug": "tru-chikoo-charm-2",
+            "product_title": "Tru Chikoo Charm",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Chikoo_Charm_125mL.png"
+          },
+          {
+            "product_id": 1808,
+            "product_slug": "tru-joyful-jack-fruit-2",
+            "product_title": "Tru Joyful Jack Fruit",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Joyful_Jackfruit_125mL.png"
+          },
+          {
+            "product_id": 1809,
+            "product_slug": "tru-lovely-litchi-2",
+            "product_title": "Tru Lovely Litchi",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Lovely_Litchi_125mL.png"
+          },
+          {
+            "product_id": 1810,
+            "product_slug": "tru-mango-mania-2",
+            "product_title": "Tru Mango Mania",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Mango_Mania_125mL.png"
+          },
+          {
+            "product_id": 1811,
+            "product_slug": "tru-sitaphal-bliss-2",
+            "product_title": "Tru Sitaphal Bliss",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Sitaphal_Bliss_125mL.png"
+          },
+          {
+            "product_id": 1812,
+            "product_slug": "tru-spicy-guava-2",
+            "product_title": "Tru Spicy Guava",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Spicy_guava_125mL.png"
+          },
+          {
+            "product_id": 1813,
+            "product_slug": "tru-strawberry-crush",
+            "product_title": "Tru Strawberry Crush",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Strawberry_Crush_125mL.png"
+          },
+          {
+            "product_id": 1814,
+            "product_slug": "tru-tender-coconut-2",
+            "product_title": "Tru Tender Coconut",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Tender_Coconut_125mL.png"
+          },
+          {
+            "product_id": 1815,
+            "product_slug": "tru-tropical-pineapple-2",
+            "product_title": "Tru Tropical Pineapple",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Tru_Tropical_Pineapple_125mL.png"
+          },
+          {
+            "product_id": 1816,
+            "product_slug": "butterscotch-gold",
+            "product_title": "Butterscotch Gold",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Butterscotch_Gold_125ml_With_Scoop_Front_Merged.png"
+          },
+          {
+            "product_id": 1817,
+            "product_slug": "chocochips-gold",
+            "product_title": "Chocochips Gold",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Chocochips-Gold_Tin1_Merged.png"
+          },
+          {
+            "product_id": 1818,
+            "product_slug": "fruit-n-nut-fantasy-gold",
+            "product_title": "Fruit N Nut Fantasy Gold",
+            "product_display_size": "125mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Fruit_N_Nut_Fantasy_Gold_With_Scoop_Tin_Front_Merged.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 296,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Guilt-free Packs ",
+        "product": [
+          {
+            "product_id": 1444,
+            "product_slug": "sugar-free-shahi-anjir",
+            "product_title": "Sugar Free Shahi Anjir",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1444/69e8FCPuQmnbcnRejLNGnKOwNJe5aI3ClzJcXRwn.png"
+          },
+          {
+            "product_id": 1445,
+            "product_slug": "sugar-free-vanilla",
+            "product_title": "Sugar Free Vanilla ",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Sugar Free Vanilla 125ml.png"
+          },
+          {
+            "product_id": 1446,
+            "product_slug": "sugar-free-kesar-badam",
+            "product_title": "Sugar Free Kesar Badam",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1446/9U8g3sS9O1xrReUxca1yDAk0GVerRniwN5SSu1Yi.png"
+          },
+          {
+            "product_id": 1447,
+            "product_slug": "camel-milk-rajbhog",
+            "product_title": "Camel Milk Rajbhog",
+            "product_display_size": "125ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1447/2ymCfkRHJFPBWt61iYQsQjGvl2rvQFe0eqgvyGoG.png"
+          },
+          {
+            "product_id": 1448,
+            "product_slug": "ice-malai-2",
+            "product_title": "Ice Malai ",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Ice Malai 125ml.png"
+          },
+          {
+            "product_id": 1449,
+            "product_slug": "ice-malai-mango-2",
+            "product_title": "Ice Malai - Mango",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Ice Cream Ice Malai Mango 125ml.png"
+          },
+          {
+            "product_id": 1450,
+            "product_slug": "less-sugar-kesar-pista",
+            "product_title": "Less Sugar Kesar Pista",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1450/v7ZzcJ01hXX51awoFaVFjK1YdCpN9AZUlTDhALkJ.png"
+          },
+          {
+            "product_id": 1452,
+            "product_slug": "lactose-free-vanilla-royale",
+            "product_title": "Lactose Free Vanilla Royale ",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02 FoP_Amul Lactose Free Vanilla 125ml.png"
+          },
+          {
+            "product_id": 1453,
+            "product_slug": "isabcool-kaju-anjir",
+            "product_title": "Isabcool Kaju Anjir",
+            "product_display_size": "125 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1 Fop_Amul_Kaju_Anjir_125mL.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 297,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Kulfi",
+        "product": [
+          {
+            "product_id": 1468,
+            "product_slug": "badshahi-kulfi",
+            "product_title": "Badshahi Kulfi ",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Badshahi-Kulfi-Elements-fop.png"
+          },
+          {
+            "product_id": 1469,
+            "product_slug": "bombay-kulfi",
+            "product_title": "Bombay Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Bombay-kulfi-fop.png"
+          },
+          {
+            "product_id": 1470,
+            "product_slug": "gold-punjabi-kulfi",
+            "product_title": "Gold Punjabi Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Punjabi-Kulfi-Gold-60mL-fop.png"
+          },
+          {
+            "product_id": 1471,
+            "product_slug": "kaju-malai-kulfi",
+            "product_title": "Kaju Malai Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Kaju-malai-kulfi-fop.png"
+          },
+          {
+            "product_id": 1472,
+            "product_slug": "kashmiri-kulfi",
+            "product_title": "Kashmiri Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Kashmiri-Kulfi-fop.png"
+          },
+          {
+            "product_id": 1473,
+            "product_slug": "sugarfree-punjabi-kulfi",
+            "product_title": "Sugarfree Punjabi Kulfi ",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Sugar-free-Punjabi-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1474,
+            "product_slug": "rajasthani-kulfi",
+            "product_title": "Rajasthani Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Rajasthani-Kulfi-fop.png"
+          },
+          {
+            "product_id": 1475,
+            "product_slug": "khoa-kulfi",
+            "product_title": "Khoa Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Khoa-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1476,
+            "product_slug": "shahi-badam-kulfi",
+            "product_title": "Shahi Badam Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Shahi-Badam-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1477,
+            "product_slug": "mawa-malai-kulfi",
+            "product_title": "Mawa Malai Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Mawa-Malai-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1478,
+            "product_slug": "pista-malai-kulfi",
+            "product_title": "Pista Malai Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Pista-Malai-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1479,
+            "product_slug": "rajbhog-kulfi",
+            "product_title": "Rajbhog Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Rajbhog-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1480,
+            "product_slug": "aamras-kulfi",
+            "product_title": "Aamras Kulfi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Aamras-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1481,
+            "product_slug": "rosogulla-kulfi",
+            "product_title": "Rosogulla Kulfi ",
+            "product_display_size": "60mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Rosogulla-Kulfi-60mL-fop.png"
+          },
+          {
+            "product_id": 1482,
+            "product_slug": "punjabi-kulfi-mawa-elaichi",
+            "product_title": "Punjabi Kulfi Mawa Elaichi",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Punjabi-Kulfi-Mawa-Elaichi-60mL-fop.png"
+          },
+          {
+            "product_id": 1483,
+            "product_slug": "rabdi-kulfi",
+            "product_title": "Rabdi Kulfi",
+            "product_display_size": "45ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Rabdi-Kulfi-fop.png"
+          },
+          {
+            "product_id": 1484,
+            "product_slug": "mast-kulfi-kesar-kammal",
+            "product_title": "Mast Kulfi Kesar Kammal ",
+            "product_display_size": "40ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Mast-Kulfi-Kesar-Kammal-fop.png"
+          },
+          {
+            "product_id": 1485,
+            "product_slug": "mast-pista-dhamaal-kulfi",
+            "product_title": "Mast Pista Dhamaal Kulfi",
+            "product_display_size": "40ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Mast-Pista-Dhamaal-fop.png"
+          },
+          {
+            "product_id": 1486,
+            "product_slug": "rajwadi-kulfi",
+            "product_title": "Rajwadi Kulfi",
+            "product_display_size": "40ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Rajwadi-Kulfi-40mL-fop.png"
+          },
+          {
+            "product_id": 1487,
+            "product_slug": "mast-khoa-kulfi",
+            "product_title": "Mast Khoa Kulfi",
+            "product_display_size": "65ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Mast-Khoa-Kulfi-fop.png"
+          },
+          {
+            "product_id": 1488,
+            "product_slug": "malai-kulfi",
+            "product_title": "Malai Kulfi",
+            "product_display_size": "30ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Amul-Malai-Kulfi-30mL-fop.png"
+          },
+          {
+            "product_id": 1489,
+            "product_slug": "matka-kulfi",
+            "product_title": "Matka Kulfi",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Amul-Matka-Kulfi-100mL-fop.png"
+          },
+          {
+            "product_id": 1490,
+            "product_slug": "kulhad-kulfi",
+            "product_title": "Kulhad Kulfi",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Amul-Kulhad-Kulfi-100mL-fop.png"
+          },
+          {
+            "product_id": 1819,
+            "product_slug": "shahi-kulfi-rajbhog-single-pack",
+            "product_title": "Shahi Kulfi Rajbhog Single Pack",
+            "product_display_size": "100mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Shahi_Kulfi_Rajbhog_100mL.png"
+          },
+          {
+            "product_id": 1820,
+            "product_slug": "shahi-kulfi-falooda",
+            "product_title": "Shahi Kulfi Falooda",
+            "product_display_size": "100mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Shahi_Kulfi_Falooda_100mL.png"
+          },
+          {
+            "product_id": 1821,
+            "product_slug": "shahi-kulfi-kesar-pista-single-pack",
+            "product_title": "Shahi Kulfi Kesar Pista Single Pack",
+            "product_display_size": "100mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Shahi_Kulfi_Kesar_Pista_100mL.png"
+          },
+          {
+            "product_id": 1822,
+            "product_slug": "shahi-kulfi-pista-matka",
+            "product_title": "Shahi Kulfi Pista (Matka)",
+            "product_display_size": "100mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Shahi_Kulfi_Pista_(Matka)_100_mL.jpg"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 298,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Epic Range",
+        "product": [
+          {
+            "product_id": 1491,
+            "product_slug": "epic-almond-gold",
+            "product_title": "Epic Almond Gold ",
+            "product_display_size": "80mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Epic-Gold-Almond-80mL-fop.png"
+          },
+          {
+            "product_id": 1492,
+            "product_slug": "epic-choco-truffle",
+            "product_title": "Epic Choco Truffle",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Epic-Choco-Truffle-80mL-fop.png"
+          },
+          {
+            "product_id": 1493,
+            "product_slug": "epic-sweetheart",
+            "product_title": "Epic Sweetheart",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/EPIC-SWEETHEART-60ml-fop.png"
+          },
+          {
+            "product_id": 1494,
+            "product_slug": "epic-strawberry-twist",
+            "product_title": "Epic Strawberry Twist",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Epic-Strawberry-Twist-Epic-80mL-fop.png"
+          },
+          {
+            "product_id": 1495,
+            "product_slug": "epic-choco-almond",
+            "product_title": "Epic Choco Almond",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Epic-Choco-Almond-80mL-fop.png"
+          },
+          {
+            "product_id": 1831,
+            "product_slug": "strawberry-twist-with-belgian-chocolate-gold",
+            "product_title": "Strawberry Twist with Belgian Chocolate Gold",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/GC_Amul_Epic_Strawberry_Twist_Gold_Pouch_Front_MERGED.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 299,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Stick",
+        "product": [
+          {
+            "product_id": 1496,
+            "product_slug": "asli-aam",
+            "product_title": "Asli Aam",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Asli-Aam-80mL-fop.png"
+          },
+          {
+            "product_id": 1497,
+            "product_slug": "asli-aam-gold",
+            "product_title": "Asli Aam Gold",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Asli-Aam-Gold-Pouch-80mL-fop.png"
+          },
+          {
+            "product_id": 1498,
+            "product_slug": "mango-duetz",
+            "product_title": "Mango Duetz",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Mango-Duetz-60-ml-fop.png"
+          },
+          {
+            "product_id": 1499,
+            "product_slug": "mango-duetz-gold",
+            "product_title": "Mango Duetz Gold",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Gold-Mango-Duetz-fop.png"
+          },
+          {
+            "product_id": 1500,
+            "product_slug": "khatta-meetha-mango-duetz",
+            "product_title": "Khatta Meetha Mango Duetz",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/KM-Mango-Duetz-fop.png"
+          },
+          {
+            "product_id": 1501,
+            "product_slug": "raspberry-duetz",
+            "product_title": "Raspberry Duetz",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Rasberry-Duetz-60ml-fop.png"
+          },
+          {
+            "product_id": 1506,
+            "product_slug": "froot-lickz-mango",
+            "product_title": "Froot Lickz Mango ",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Froot-Lickz-Mango-60mL-fop.png"
+          },
+          {
+            "product_id": 1507,
+            "product_slug": "froot-lickz-orange",
+            "product_title": "Froot Lickz Orange",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Froot-Lickz-Orange-60mL-fop.png"
+          },
+          {
+            "product_id": 1508,
+            "product_slug": "ice-lickz-orange",
+            "product_title": "Ice Lickz Orange",
+            "product_display_size": "50ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Ice-Lickz-Orange-Candy-50mL-fop.png"
+          },
+          {
+            "product_id": 1509,
+            "product_slug": "probiotic-chocobar",
+            "product_title": "Probiotic Chocobar ",
+            "product_display_size": "30ml, 60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Chocobar-Probiotic-60ml-fop.png"
+          },
+          {
+            "product_id": 1510,
+            "product_slug": "probiotic-chocopop",
+            "product_title": "Probiotic Chocopop",
+            "product_display_size": "18ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Probiotic-Chocopop-18mL-fop.png"
+          },
+          {
+            "product_id": 1511,
+            "product_slug": "dark-chocobar",
+            "product_title": "Dark Chocobar",
+            "product_display_size": "60 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Chocobar-Dark-Chocolate-60mL-fop.png"
+          },
+          {
+            "product_id": 1512,
+            "product_slug": "frostik",
+            "product_title": "Frostik",
+            "product_display_size": "70 ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Frostik-70mL-fop.png"
+          },
+          {
+            "product_id": 1513,
+            "product_slug": "dark-frostik",
+            "product_title": "Dark Frostik",
+            "product_display_size": "70ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Frostik-Dark-Chocolate-70mL-fop.png"
+          },
+          {
+            "product_id": 1514,
+            "product_slug": "coffee-bar",
+            "product_title": "Coffee Bar",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Coffee-Bar-fop.png"
+          },
+          {
+            "product_id": 1829,
+            "product_slug": "chocobar-probiotic-gold",
+            "product_title": "Chocobar Probiotic Gold",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Chocobar_Gold_60ml_Front.png"
+          },
+          {
+            "product_id": 1830,
+            "product_slug": "frostik-gold",
+            "product_title": "Frostik Gold",
+            "product_display_size": "70ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Frostik_Gold_Kulfi_Front.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 300,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Fundoo Range",
+        "product": [
+          {
+            "product_id": 1502,
+            "product_slug": "mango-fundoo",
+            "product_title": "Mango Fundoo",
+            "product_display_size": "45ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Mango-dolly-fop.png"
+          },
+          {
+            "product_id": 1503,
+            "product_slug": "curly-fundoo",
+            "product_title": "Curly Fundoo",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Fundoo-Curly-60mL-fop.png"
+          },
+          {
+            "product_id": 1504,
+            "product_slug": "super-fundoo",
+            "product_title": "Super Fundoo",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Fundoo-Super-60mL-fop.png"
+          },
+          {
+            "product_id": 1505,
+            "product_slug": "chakri-fundoo",
+            "product_title": "Chakri Fundoo",
+            "product_display_size": "60ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Fundoo-Chakri-60mL-fop.png"
+          },
+          {
+            "product_id": 1825,
+            "product_slug": "fundoo-vanilla-ball",
+            "product_title": "Fundoo Vanilla Ball",
+            "product_display_size": "100ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Fundoo_Vanilla_Ball_Mockup.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 301,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Novelties",
+        "product": [
+          {
+            "product_id": 1515,
+            "product_slug": "neapolitan-cake-magic",
+            "product_title": "Neapolitan Cake Magic",
+            "product_display_size": "1.5 L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Neapolitan-Carton-1-5L-resize.png"
+          },
+          {
+            "product_id": 1516,
+            "product_slug": "dark-chocolate-cake-magic",
+            "product_title": "Dark Chocolate Cake Magic",
+            "product_display_size": "750ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Dark-Chocolate-750ml-resize.png"
+          },
+          {
+            "product_id": 1517,
+            "product_slug": "golden-fantasy-cake-magic",
+            "product_title": "Golden Fantasy Cake Magic",
+            "product_display_size": "1.5 L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Golden-Fantasy-Carton-1-5L.png"
+          },
+          {
+            "product_id": 1518,
+            "product_slug": "pista-malai-roll-cut",
+            "product_title": "Pista Malai Roll Cut",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Roll-Cut-Pista-Malai-80ml-fop.png"
+          },
+          {
+            "product_id": 1519,
+            "product_slug": "kaju-malai-roll-cut",
+            "product_title": "Kaju Malai Roll Cut",
+            "product_display_size": "80ml,110ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Roll-Cut-Kaju-Malai-80ml-fop.png"
+          },
+          {
+            "product_id": 1521,
+            "product_slug": "cassata",
+            "product_title": "Cassata",
+            "product_display_size": "150ml, 120ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Ice-Cream-Cassatta-150ml-120ml-resize-fop-pack.png"
+          },
+          {
+            "product_id": 1522,
+            "product_slug": "cookie-sub",
+            "product_title": "Cookie Sub",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Cookie-Sub-80mL-fop.png"
+          },
+          {
+            "product_id": 1523,
+            "product_slug": "ice-cream-sandwich-vanilla",
+            "product_title": "Ice Cream Sandwich - Vanilla",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Sandwich-Vanilla-80mL-fop.png"
+          },
+          {
+            "product_id": 1524,
+            "product_slug": "ice-cream-sandwich-choco-brownie",
+            "product_title": "Ice Cream Sandwich - Choco Brownie",
+            "product_display_size": "80ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Sandwich-Chocolate-Brownie-80mL-fop.png"
+          },
+          {
+            "product_id": 1823,
+            "product_slug": "amul-dark-chocolate-cake-magic",
+            "product_title": "Amul Dark Chocolate - Cake Magic",
+            "product_display_size": "500mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Dark_Chocolate_Cake_Front_Merged.png"
+          },
+          {
+            "product_id": 1824,
+            "product_slug": "golden-fantacy-cake-magic",
+            "product_title": "Golden Fantacy - Cake Magic",
+            "product_display_size": "500mL",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/02_FoP_Amul_Golden_Fantasy_500mL.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 302,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Party Pack",
+        "product": [
+          {
+            "product_id": 1525,
+            "product_slug": "golden-pearl-2",
+            "product_title": "Golden Pearl ",
+            "product_display_size": "2L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Golden-Pearl-2L.png"
+          },
+          {
+            "product_id": 1526,
+            "product_slug": "fruit-n-nut-fantasy-2",
+            "product_title": "Fruit n Nut Fantasy ",
+            "product_display_size": "2L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Fruit-n-Nut-Fantasy-Carton-2L.png"
+          },
+          {
+            "product_id": 1527,
+            "product_slug": "butterscotch-bliss-3",
+            "product_title": "Butterscotch Bliss ",
+            "product_display_size": "2L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Butterscotch-Bliss-2L.png"
+          },
+          {
+            "product_id": 1528,
+            "product_slug": "two-in-one-2",
+            "product_title": "Two in One ",
+            "product_display_size": "2L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Two-In-One-2L.png"
+          },
+          {
+            "product_id": 1529,
+            "product_slug": "vanilla-royale-3",
+            "product_title": "Vanilla Royale ",
+            "product_display_size": "2L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Vanilla-Royale-Carton-2L.png"
+          },
+          {
+            "product_id": 1530,
+            "product_slug": "chocolate-5",
+            "product_title": "Chocolate ",
+            "product_display_size": "2L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Chocolate-2L.png"
+          },
+          {
+            "product_id": 1531,
+            "product_slug": "alphonso-marvel",
+            "product_title": "Alphonso Marvel ",
+            "product_display_size": "2L",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/2-Alphonso-Marvel-2L.png"
+          },
+          {
+            "product_id": 1826,
+            "product_slug": "butterscotch-bliss-gold",
+            "product_title": "Butterscotch Bliss Gold",
+            "product_display_size": "750ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Butterscotch_Blisss_Gold_Front.png"
+          },
+          {
+            "product_id": 1827,
+            "product_slug": "tricone-butterscotch-gold",
+            "product_title": "Tricone Butterscotch Gold",
+            "product_display_size": "750ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Tricone_Butterscotch_Gold_Pack.png"
+          },
+          {
+            "product_id": 1828,
+            "product_slug": "vanilla-royale-gold",
+            "product_title": "Vanilla Royale Gold",
+            "product_display_size": "750ml",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/SP_Amul_Vanilla_Royale_Front.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 303,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Super Saver Packs",
+        "product": [
+          {
+            "product_id": 1532,
+            "product_slug": "choco-chips",
+            "product_title": "Choco Chips",
+            "product_display_size": "750+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Chocochips-750ml.png"
+          },
+          {
+            "product_id": 1533,
+            "product_slug": "afghan-dry-fruit-2",
+            "product_title": "Afghan Dry Fruit",
+            "product_display_size": "750 ml +750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Afghan-Dry-Fruit-750ml.png"
+          },
+          {
+            "product_id": 1534,
+            "product_slug": "chocolate-6",
+            "product_title": "Chocolate",
+            "product_display_size": "750+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Chocolate-750ml.png"
+          },
+          {
+            "product_id": 1535,
+            "product_slug": "vanilla-royale-4",
+            "product_title": "Vanilla Royale",
+            "product_display_size": "750+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Vanilla-Royale-750ml.png"
+          },
+          {
+            "product_id": 1536,
+            "product_slug": "alphonso-mango-2",
+            "product_title": "Alphonso Mango",
+            "product_display_size": "750 ml +750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Alphonso-Mango-750ml.png"
+          },
+          {
+            "product_id": 1537,
+            "product_slug": "shahi-mewa-khazana",
+            "product_title": "Shahi Mewa Khazana",
+            "product_display_size": "750ml+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Shahi-Mewa-Khazana-750ml-resize.png"
+          },
+          {
+            "product_id": 1538,
+            "product_slug": "rajbhog-4",
+            "product_title": "Rajbhog",
+            "product_display_size": "750ml+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Rajbhog-750ml.png"
+          },
+          {
+            "product_id": 1539,
+            "product_slug": "strawberry",
+            "product_title": "Strawberry",
+            "product_display_size": "750ml+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Strawberry-750ml.png"
+          },
+          {
+            "product_id": 1540,
+            "product_slug": "butterscotch-4",
+            "product_title": "Butterscotch ",
+            "product_display_size": "750ml+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Butterscotch-750ml.png"
+          },
+          {
+            "product_id": 1541,
+            "product_slug": "butterscotch-bliss-4",
+            "product_title": "Butterscotch Bliss",
+            "product_display_size": "750ml+750ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Butterscotch-Bliss-1.png"
+          },
+          {
+            "product_id": 1542,
+            "product_slug": "refreshing-strawberry",
+            "product_title": "Refreshing Strawberry ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Refreshing-Strawberry-750ml.png"
+          },
+          {
+            "product_id": 1543,
+            "product_slug": "tutti-frutti-2",
+            "product_title": "Tutti Frutti ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Tutti-Fruity-750ml.png"
+          },
+          {
+            "product_id": 1544,
+            "product_slug": "kesar-pista-royale",
+            "product_title": "Kesar Pista Royale ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Kesar-Pista-750ml.png"
+          },
+          {
+            "product_id": 1545,
+            "product_slug": "shalimar-3",
+            "product_title": "Shalimar",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Shalimar-750ml.png"
+          },
+          {
+            "product_id": 1546,
+            "product_slug": "kaju-draksh-2",
+            "product_title": "Kaju Draksh ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Kaju-Draksh-fop.png"
+          },
+          {
+            "product_id": 1547,
+            "product_slug": "cookies-n-cream-2",
+            "product_title": "Cookies n Cream ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Cookies-N-cream-750ml.png"
+          },
+          {
+            "product_id": 1548,
+            "product_slug": "american-nuts-3",
+            "product_title": "American Nuts ",
+            "product_display_size": "750ml + 750ml Free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/American-Nuts-fop.png"
+          },
+          {
+            "product_id": 1549,
+            "product_slug": "spanish-saffron-cream-balls",
+            "product_title": "Spanish Saffron & Cream Balls ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-SSCB-750ml.png"
+          },
+          {
+            "product_id": 1550,
+            "product_slug": "shahi-anjir-2",
+            "product_title": "Shahi Anjir ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Shahi-Anjir-750ml.png"
+          },
+          {
+            "product_id": 1551,
+            "product_slug": "creamy-almond",
+            "product_title": "Creamy Almond ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Creamy-Almond-750ml-resize.png"
+          },
+          {
+            "product_id": 1552,
+            "product_slug": "green-pista",
+            "product_title": "Green Pista",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/Green-pista-fop.png"
+          },
+          {
+            "product_id": 1553,
+            "product_slug": "black-currant-2",
+            "product_title": "Black Currant ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Black-Currant-750ml.png"
+          },
+          {
+            "product_id": 1554,
+            "product_slug": "kaju-anjir",
+            "product_title": "Kaju Anjir ",
+            "product_display_size": "500ml + 250ml free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/1-Kaju-Anjir-750ml.png"
+          },
+          {
+            "product_id": 1555,
+            "product_slug": "pina-colada",
+            "product_title": "Pina Colada ",
+            "product_display_size": "750ml + 750ml Free",
+            "status": "Active",
+            "product_image": "https://assets.amul.com/public/productImage/pina-colada-1.png"
+          }
+        ]
+      },
+      {
+        "sub_category_id": 357,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Tru Tubs",
+        "product": []
+      },
+      {
+        "sub_category_id": 358,
+        "sub_category_image_web": "",
+        "sub_category_image_mobile": "",
+        "sub_category_title": "Packs",
+        "product": []
+      }
+    ],
+    "tvc_links": [
+      "https://youtu.be/2ca5l73RixA?si=aHh9Kpj5F9kQthq0"
+    ],
+    "tvc_link": "https://youtu.be/2ca5l73RixA?si=aHh9Kpj5F9kQthq0"
+  }
+}

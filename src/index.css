@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --brand-red: #E63946;
+    --brand-cream: #FFF3E5;
+    --brand-orange: #FF9F1C;
+    --brand-blue: #247BA0;
+    --brand-dark: #242424;
+  }
+
+  body {
+    @apply bg-[#FAF6F0] text-brand-dark font-sans antialiased selection:bg-brand-orange selection:text-white;
+    min-height: 100vh;
+  }
+}
+
+/* Custom hide-scrollbar utility for mobile horizontal brand categories */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth tap states for mobile */
+.tap-highlight-none {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Glassmorphism effects */
+.glass-header {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.glass-nav {
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
