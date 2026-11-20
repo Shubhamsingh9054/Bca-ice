@@ -38,10 +38,9 @@ export const HomePage: React.FC = () => {
         {/* 5 Circular Brand Categories matching Reference Image 1 */}
         <BrandCategories />
 
-        {/* 1. Popular Picks (Most Popular Ice Creams) matching Image 1 */}
+        {/* 1. Popular Picks (Most Popular Ice Creams) */}
         <ProductSection
           title="Popular Picks"
-          subtitle="Top customer favorites across Amul, Havmor, Cream Bell, Mother Dairy & Vadilal"
           viewAllLink="/menu?filter=popular"
           products={popularIceCreams.slice(0, 4)}
         />
@@ -91,7 +90,6 @@ export const HomePage: React.FC = () => {
         {/* 3. Amul Popular Ice Creams */}
         <ProductSection
           title="Amul Real Milk Delights"
-          subtitle="The Taste of India – Royal Kulfi, Brownie Tubs & Vanilla"
           viewAllLink="/brand/amul"
           products={amulProducts}
           icon="🥛"
@@ -100,7 +98,6 @@ export const HomePage: React.FC = () => {
         {/* 4. Havmor Popular Ice Creams */}
         <ProductSection
           title="Havmor Gourmet Indulgence"
-          subtitle="Belgian Dark Chocolate, Black Forest & Hazelnut Cones"
           viewAllLink="/brand/havmor"
           products={havmorProducts}
           icon="🍫"
@@ -109,7 +106,6 @@ export const HomePage: React.FC = () => {
         {/* 4. Cream Bell Popular Ice Creams */}
         <ProductSection
           title="Cream Bell Pure Indulgence"
-          subtitle="Butterscotch Crunch, Wild Strawberry & Maxx Cones"
           viewAllLink="/brand/cream-bell"
           products={creamBellProducts}
           icon="🔔"
@@ -118,7 +114,6 @@ export const HomePage: React.FC = () => {
         {/* 5. Mother Dairy Popular Ice Creams */}
         <ProductSection
           title="Mother Dairy Heritage"
-          subtitle="Original Mango Dolly, Classic Chocobars & Cups"
           viewAllLink="/brand/mother-dairy"
           products={motherDairyProducts}
           icon="🥭"
@@ -127,7 +122,6 @@ export const HomePage: React.FC = () => {
         {/* 6. Vadilal Popular Ice Creams */}
         <ProductSection
           title="Vadilal Royal Flavours"
-          subtitle="Cassata Slices, Gourmet Bars & Royal Rajbhog"
           viewAllLink="/brand/vadilal"
           products={vadilalProducts}
           icon="👑"
@@ -136,7 +130,6 @@ export const HomePage: React.FC = () => {
         {/* 7. Special Offers */}
         <ProductSection
           title="Special Value Offers"
-          subtitle="Best seller scoops and value packs ready for shop pickup"
           viewAllLink="/offers"
           products={specialOffers.slice(0, 4)}
           icon="🏷️"
@@ -145,7 +138,6 @@ export const HomePage: React.FC = () => {
         {/* 8. Recently Added Products */}
         <ProductSection
           title="Freshly Restocked Today"
-          subtitle="Updated in today's daily inventory session"
           products={recentlyAdded}
           icon="✨"
         />
