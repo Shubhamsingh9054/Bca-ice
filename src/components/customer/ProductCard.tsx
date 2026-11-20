@@ -123,10 +123,21 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
           }`}
           loading="lazy"
           onError={() => {
-            const localFallback = `/products/amul/${product.slug.replace(/^p-amul-/, '')}.png`;
-            if (imgSrc !== localFallback && product.brandId === 'amul') {
-              setImgSrc(localFallback);
-            } else if (imgSrc !== '/brands/amul.jpg') {
+            if (product.brandId === 'amul') {
+              const localFallback = `/products/amul/${product.slug.replace(/^p-amul-/, '')}.png`;
+              if (imgSrc !== localFallback) {
+                setImgSrc(localFallback);
+                return;
+              }
+              setImgSrc('/brands/amul.jpg');
+            } else if (product.brandId === 'mother-dairy') {
+              const localFallback = `/products/mother-dairy/${product.slug}.png`;
+              if (imgSrc !== localFallback) {
+                setImgSrc(localFallback);
+                return;
+              }
+              setImgSrc('/brands/mother-dairy.jpg');
+            } else {
               setImgSrc('/brands/amul.jpg');
             }
           }}

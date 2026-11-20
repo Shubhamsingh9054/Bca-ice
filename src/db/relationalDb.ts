@@ -111,8 +111,19 @@ class RelationalDatabase {
     // 1. Brands Table (5 official brands)
     this.loadTable<Brand>(TABLES.BRANDS, INITIAL_BRANDS);
 
-    // 2. Products Table (21 products with foreign keys to brands)
-    this.loadTable<Product>(TABLES.PRODUCTS, INITIAL_PRODUCTS);
+    // 2. Products Table (auto-merge all INITIAL_PRODUCTS into persistent table)
+    const storedProds = this.loadTable<Product>(TABLES.PRODUCTS, []);
+    const existingIds = new Set(storedProds.map((p) => p.id));
+    let hasNewProducts = false;
+    INITIAL_PRODUCTS.forEach((p) => {
+      if (!existingIds.has(p.id)) {
+        storedProds.push(p);
+        hasNewProducts = true;
+      }
+    });
+    if (hasNewProducts || storedProds.length === 0) {
+      this.saveTable(TABLES.PRODUCTS, storedProds.length > 0 ? storedProds : INITIAL_PRODUCTS);
+    }
 
     // 3. Promotional Banners Table
     this.loadTable<HeroBanner>(TABLES.BANNERS, INITIAL_BANNERS);
@@ -134,11 +145,11 @@ class RelationalDatabase {
     // 5. Stock Sessions Table & Daily Inventory Table
     const todayStr = getKolkataDateString();
     const sessions = this.loadTable<any>(TABLES.STOCK_SESSIONS, []);
-    const existingSession = sessions.find((s) => s.sessionDate === todayStr);
+    let existingSession = sessions.find((s) => s.sessionDate === todayStr);
 
     if (!existingSession) {
       const initialSession = createInitialStockSession(todayStr);
-      sessions.push({
+      existingSession = {
         id: initialSession.id,
         sessionDate: initialSession.sessionDate,
         status: initialSession.status,
@@ -148,7 +159,8 @@ class RelationalDatabase {
         totalSold: initialSession.totalSold,
         notes: initialSession.notes,
         createdAt: new Date().toISOString(),
-      });
+      };
+      sessions.push(existingSession);
       this.saveTable(TABLES.STOCK_SESSIONS, sessions);
 
       // Seed relational daily_inventory rows for today's session
@@ -163,6 +175,32 @@ class RelationalDatabase {
         updatedAt: new Date().toISOString(),
       }));
       this.saveTable(TABLES.DAILY_INVENTORY, invRows);
+    } else {
+      // Ensure any newly added products (e.g. Mother Dairy) have daily inventory rows in existing session
+      const invRows = this.loadTable<any>(TABLES.DAILY_INVENTORY, []);
+      const sessionInvProductIds = new Set(
+        invRows.filter((r) => r.stockSessionId === existingSession.id).map((r) => r.productId)
+      );
+      let invUpdated = false;
+      const allCurrentProducts = this.loadTable<Product>(TABLES.PRODUCTS, INITIAL_PRODUCTS);
+      allCurrentProducts.forEach((p) => {
+        if (!sessionInvProductIds.has(p.id)) {
+          invRows.push({
+            id: this.generateId('inv'),
+            stockSessionId: existingSession.id,
+            productId: p.id,
+            publishedQuantity: 30,
+            soldQuantity: 0,
+            reservedQuantity: 0,
+            lowStockThreshold: 5,
+            updatedAt: new Date().toISOString(),
+          });
+          invUpdated = true;
+        }
+      });
+      if (invUpdated) {
+        this.saveTable(TABLES.DAILY_INVENTORY, invRows);
+      }
     }
 
     // 6. Orders Table (Initial seed order with token BCA-0878)

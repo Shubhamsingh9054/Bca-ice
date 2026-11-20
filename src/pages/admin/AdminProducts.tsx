@@ -299,9 +299,20 @@ export const AdminProducts: React.FC = () => {
                             className="w-11 h-11 rounded-xl object-contain bg-white border border-neutral-200/80 p-1 flex-shrink-0 shadow-2xs"
                             onError={(e) => {
                               const target = e.currentTarget;
-                              const fallback = `/products/amul/${p.slug.replace(/^p-amul-/, '')}.png`;
-                              if (!target.src.includes(fallback) && p.brandId === 'amul') {
-                                target.src = fallback;
+                              if (p.brandId === 'amul') {
+                                const fallback = `/products/amul/${p.slug.replace(/^p-amul-/, '')}.png`;
+                                if (!target.src.includes(fallback)) {
+                                  target.src = fallback;
+                                } else {
+                                  target.src = '/brands/amul.jpg';
+                                }
+                              } else if (p.brandId === 'mother-dairy') {
+                                const fallback = `/products/mother-dairy/${p.slug}.png`;
+                                if (!target.src.includes(fallback)) {
+                                  target.src = fallback;
+                                } else {
+                                  target.src = '/brands/mother-dairy.jpg';
+                                }
                               } else {
                                 target.src = '/brands/amul.jpg';
                               }
