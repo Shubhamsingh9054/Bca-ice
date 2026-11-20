@@ -112,9 +112,18 @@ class RelationalDatabase {
     this.loadTable<Brand>(TABLES.BRANDS, INITIAL_BRANDS);
 
     // 2. Products Table (auto-merge all INITIAL_PRODUCTS into persistent table)
-    const storedProds = this.loadTable<Product>(TABLES.PRODUCTS, []);
+    let storedProds = this.loadTable<Product>(TABLES.PRODUCTS, []);
+    // Clean up obsolete mock Cream Bell products if any
+    const hadObsoleteCreamBell = storedProds.some(
+      (p) => p.brandId === 'cream-bell' && p.id.startsWith('p-cream-bell-')
+    );
+    if (hadObsoleteCreamBell) {
+      storedProds = storedProds.filter(
+        (p) => !(p.brandId === 'cream-bell' && p.id.startsWith('p-cream-bell-'))
+      );
+    }
     const existingIds = new Set(storedProds.map((p) => p.id));
-    let hasNewProducts = false;
+    let hasNewProducts = hadObsoleteCreamBell;
     INITIAL_PRODUCTS.forEach((p) => {
       if (!existingIds.has(p.id)) {
         storedProds.push(p);

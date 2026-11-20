@@ -137,6 +137,13 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
                 return;
               }
               setImgSrc('/brands/mother-dairy.jpg');
+            } else if (product.brandId === 'cream-bell') {
+              const localFallback = `/products/cream-bell/${product.slug}.png`;
+              if (imgSrc !== localFallback) {
+                setImgSrc(localFallback);
+                return;
+              }
+              setImgSrc('/brands/cream-bell.png');
             } else {
               setImgSrc('/brands/amul.jpg');
             }

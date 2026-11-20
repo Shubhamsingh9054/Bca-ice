@@ -313,6 +313,13 @@ export const AdminProducts: React.FC = () => {
                                 } else {
                                   target.src = '/brands/mother-dairy.jpg';
                                 }
+                              } else if (p.brandId === 'cream-bell') {
+                                const fallback = `/products/cream-bell/${p.slug}.png`;
+                                if (!target.src.includes(fallback)) {
+                                  target.src = fallback;
+                                } else {
+                                  target.src = '/brands/cream-bell.png';
+                                }
                               } else {
                                 target.src = '/brands/amul.jpg';
                               }
